@@ -58,24 +58,24 @@ This project uses machine learning to predict the **Fire Weather Index (FWI)** u
 
 The Flask app allows users to input 9 features and get a real-time FWI prediction.
 
-### `index.html`
-
-![Application Screenshot](Application.png)
-
-### `home.html`
+### `Home Page`
 
 User form for entering prediction data:
 
 ![Home Screenshot](Home.png)
 
+### `Prection Page`
+
+![Application Screenshot](Application.png)
+
 ---
 
 ## How to Run
 
-1. **Install dependencies**
+1. **Install dependencies** (Install flask, pandas, scikit-learn, numpy)
 
    ```bash
-   pip install flask pandas scikit-learn numpy
+   pip install -r requirements.txt
    ```
 
 2. **Run Flask App**
