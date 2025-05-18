@@ -62,11 +62,11 @@ The Flask app allows users to input 9 features and get a real-time FWI predictio
 
 User form for entering prediction data:
 
-![Home Screenshot](Home.png)
+![Home Screenshot](Homepage.png)
 
 ### `Prection Page`
 
-![Application Screenshot](Application.png)
+![Application Screenshot](Applicationpage.png)
 
 ---
 
