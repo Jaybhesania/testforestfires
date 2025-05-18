@@ -54,9 +54,9 @@ This project uses machine learning to predict the **Fire Weather Index (FWI)** u
 
 ---
 
-## 🖥 Web App Demo
+## 🖥 Live Web App Deployment
 
-The Flask app allows users to input 9 features and get a real-time FWI prediction.
+The Flask app has been successfully deployed on **AWS Elastic Beanstalk**. Below is a screenshot of the hosted app:
 
 ### `Home Page`
 
